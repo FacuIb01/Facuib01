@@ -8,14 +8,14 @@
   👨🏼‍🎓Soy Estudiante de la Licenciatura en Sistemas y 💻Full-Stack Developer
 </p>
 
-##📌 Sobre Mí:
+## 📌 Sobre Mí:
 - Argentino 🇦🇷
 - 👨🏼‍💻Apasionado por la tecnología
 - 🔝En constante crecimiento
 - 👨🏼‍🎓4 materias restantes para conseguir el titulo intermedio de la Licenciatura
 - 📩Contactame en: [facundoemiliano.21@gmail.com](mailto:facundoemiliano.21@gmail.co)
 
-  ## 🌐 Portafolio:
+## 🌐 Portafolio:
 Podes ver todos mis proyectos en [Mi Portafolio](https://facuib.netlify.app).
 
 ## 🔨 Lenguajes y Herramientas:
@@ -28,3 +28,6 @@ Podes ver todos mis proyectos en [Mi Portafolio](https://facuib.netlify.app).
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Linkedin💼
+[Facundo Ibañez](https://www.linkedin.com/in/facundoibañez/)
