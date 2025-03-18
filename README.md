@@ -8,13 +8,12 @@
   👨🏼‍🎓Soy Estudiante de la Licenciatura en Sistemas y 💻Full-Stack Developer
 </p>
 
-#📌 Sobre Mí:
--Argentino 🇦🇷
--👨🏼‍💻Apasionado por la tecnología
--🔝En constante crecimiento
--👨🏼‍🎓4 materias restantes para conseguir el titulo intermedio de la Licenciatura
--📩Contactame en: [facundoemiliano.21@gmail.com](mailto:facundoemiliano.21@gmail.co)
--
+##📌 Sobre Mí:
+- Argentino 🇦🇷
+- 👨🏼‍💻Apasionado por la tecnología
+- 🔝En constante crecimiento
+- 👨🏼‍🎓4 materias restantes para conseguir el titulo intermedio de la Licenciatura
+- 📩Contactame en: [facundoemiliano.21@gmail.com](mailto:facundoemiliano.21@gmail.co)
 
   ## 🌐 Portafolio:
 Podes ver todos mis proyectos en [Mi Portafolio](https://facuib.netlify.app).
