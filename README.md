@@ -28,6 +28,7 @@ Podes ver todos mis proyectos en [Mi Portafolio](https://facuib.netlify.app).
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=White)
 
 ## Linkedin💼
 [Facundo Ibañez](https://www.linkedin.com/in/facundoibañez/)
